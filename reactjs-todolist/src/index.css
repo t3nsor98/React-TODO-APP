@@ -102,6 +102,9 @@ p {
   opacity: 0.7;
 }
 
+/* .fa-regular {
+  cursor: pointer;
+} */
 
 
 @media (min-width: 640px) {
