@@ -45,7 +45,8 @@ header input {
 
 header button {
   border-radius: 14px;
-  background: transparent;
+  color: blue;
+  background-color: bisque;
   transition-duration: 200ms;
   cursor: pointer;
 }
@@ -102,9 +103,6 @@ p {
   opacity: 0.7;
 }
 
-/* .fa-regular {
-  cursor: pointer;
-} */
 
 
 @media (min-width: 640px) {
